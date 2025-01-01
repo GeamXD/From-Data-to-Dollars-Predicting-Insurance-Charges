@@ -40,7 +40,6 @@ The dataset used in this project is `insurance.csv`, which contains information 
 1.  **Data Cleaning:** Handling missing values (if any) and ensuring data consistency. The prompt mentions that cleaning is crucial for successful model training.
 2.  **Feature Engineering:** Encoding categorical features (e.g., `sex`, `smoker`, `region`) into numerical representations suitable for the model.
 3.  **Data Splitting:** The prompt does not explicitly mention splitting `insurance.csv` into train/test sets, but this is implicitly assumed to have been done within the code itself.
-4. **No explicit Feature Selection** was mentioned in the prompt.
 
 ## Machine Learning Pipeline
 
